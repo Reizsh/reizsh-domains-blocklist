@@ -1,0 +1,22 @@
+# Ads/Tracking/Analytics domains list.
+||uxzw.club^
+||bystys.tech^
+||laztys.tech^
+||owxd.xyz^
+||rzdss.com^
+||baidioo.com^
+||hao123op.com^
+||o84tf0.ru^
+||gloryads.*^
+||lytest.tk^
+||ulog.dhgames.com^
+||puzzlejoytime.com^
+||mengkuta.com^
+||junglefrog.com^
+||v001sss.xyz^
+||furkank.*^
+||piojm.tech^
+||acnigv.com^
+||gdl.like.video^
+||lbs.like.video^
+||static-web.likeevideo.*^
