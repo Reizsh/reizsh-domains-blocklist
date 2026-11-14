@@ -1,4 +1,6 @@
-# Ads/Tracking/Analytics domains list.
+# Domain list by Reizsh.
+
+# Ads/Tracking/Analytics domains.
 ||uxzw.club^
 ||bystys.tech^
 ||laztys.tech^
@@ -20,3 +22,21 @@
 ||gdl.like.video^
 ||lbs.like.video^
 ||static-web.likeevideo.*^
+||stat.online.sberbank.ru^
+||ddp-mobile.online.sberbank.ru^
+
+# Malware/Suspicious domains.
+||mbnvjpw.com^
+||ghxymbu.com^
+||umfyoxe.com^
+||kuxnv.com^
+||qedzwmd.com^
+||iydqaoo.com^
+||xiyuthu.com^
+||dpwoi.com^
+||mcnlgpk.com^
+||puosd.com^
+||cmgitdl.com^
+||vbdxexv.com^
+||qaitsvs.com^
+||ndmasoi.com^
